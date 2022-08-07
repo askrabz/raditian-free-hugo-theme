@@ -1,187 +1,210 @@
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Andreas."
-  subtitle: "Front-End Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  title: "Transform Your Vision into Creative Results"
+  subtitle: "Hi, I'm Rabbani."
+  description: "A Certified Project Manager, Consultant & Engineering Technologist.</a>"
+  #Connect with me on <a target='_blank' href='www.linkedin.com/in/mohdrabbani/'>LinkedIn
   image:
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: "img/showcase/img1.png"
+    _2x: "img/showcase/img1.png"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/img1.png"
 
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "https://wa.me/message/IY7REKYEJ4WTG1"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "www.linkedin.com/in/mohdrabbani/"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/askrabz"
 
-    - icon: "twitter"
-      URL: "https://twitter.com/radity"
+    - icon: "whatsapp"
+      URL: "https://wa.me/message/IY7REKYEJ4WTG1"
 
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
+    #- icon: "dribbble"
+    #  URL: "https://dribbble.com/radity"
 
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
+    #- icon: "behance"
+    #  URL: "https://www.behance.net/radity-digital"
 
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+    #- icon: "youtube"
+    #  URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 
-    - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+    #- icon: "instagram"
+    #  URL: "https://www.instagram.com/teamradity/"
 
-    - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
+    #- icon: "facebook"
+    #  URL: "https://www.facebook.com/raditycom/"
 
-    - icon: "codepen"
-      URL: "#"
+    #- icon: "codepen"
+    #  URL: "#"
 
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+    #- icon: "yelp"
+    #  URL: "https://www.yelp.com/"
 
 # about
 about:
   enable: true
-  title: "Who am I?"
-  content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
-    </p>
-    <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
-    </p>'
+  title: "About Me"
+  content: 
+   '
+    <p class="lead"><h3><left>Delivering Excellence & Success</left></h3></p>
+    <p class="lead"><center>Proficient in Voice over Internet Protocol (VoIP), Telecommunications, and Unified Communication Technologies.</center></p>
+    <p class="lead"><b>Leveraging 19+ years of experience in:</b></p>
+    <p class="lead">- Project Management</p>
+    <p class="lead">- Service Delivery</p>
+    <p class="lead">- Engineering Management</p>
+    <p class="lead">- Consultation</p>
+  '
   button:
     icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    btnText: "Succeed Today ->"
+    URL: "https://wa.me/message/IY7REKYEJ4WTG1"
   image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/who-am-i/IMG-1017-modified.png"
+    _2x: "img/who-am-i/IMG-1017-modified.png"
 
 # education
 education:
   enable: true
-  title: "Education"
+  title: "Qualifications"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "London Metropolitan University"
+      year: "2000-2003"
+      degree: "Bachelor of Science (BSc) with Honors, Computing and Information Technology"
 
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "Columbus University"
+      year: "2004-2006"
+      degree: "Masters in Business Administration (MBA) Major in Communications"
 
 # experience
 experience:
   enable: true
-  title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  title: "Summary"
+  description: "I’m a technology specialist working with business and technical teams from all over the world to help businesses and drive excellence. Predominately leading, planning, and implementing enterprise-level projects, improving operational efficiency, design & develop digital products and emerging cloud innovations."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "#"
+    URL: "www.linkedin.com/in/mohdrabbani/"
+ # button2:
+ #   icon: "icon-profile-fill"
+ #   btnText: "Download My Resume"
+ #   URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "19+ Years"
+      company: "IT, Telecom, & Managed Services"
+      duration: "Exprience"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "150+"
+      company: "Small, Medium & Large Enterprises"
+      duration: "Sucessful Projects"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+    - title: "250 ~ 300"
+      company: "Azure, Google, Aws, Proxmox & others"
+      duration: "Managed nodes"
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Projects"
   enable: true
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: "img/clients/iaas-icon.png"
+        _2x: "img/clients/iaas-icon.png"
+      alt: "Infrastructure"
 
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "img/clients/paas-icon.png"
+        _2x: "img/clients/paas-icon.png"
+      alt: "Platform"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "img/clients/SaaS.png"
+        _2x: "img/clients/SaaS.png"
+      alt: "Automation"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "img/clients/monitoring-icon.png"
+        _2x: "img/clients/monitoring-icon.png"
+      alt: "Operations"
 
     - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+        x: "img/clients/cpbx.png"
+        _2x: "img/clients/cpbx.png"
+      alt: "CPBX"
 
     - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+        x: "img/clients/Teams.png"
+        _2x: "img/clients/Teams.png"
+      alt: "Teams"
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "Class 4 - SoftSwitch"
+      description: "A carrier-grade Class 4 SIP Soft Switch with integrated real-time billing and intelligent routing subsystem. Suitable for Call Termination Service (CTS) and Transiting voice traffic."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/SSW.png"
+        _2x: "img/works/SSW.png"
       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+    - title: "Class 5 - Unified Communication & PBX"
+      description: "A highly scalable, distributed, cloud-based telephony platform designed to provide enterprise & carrier grade unified communication switching functions and features. Built-in open APIs for 3rd Party integrations with pre-built applications."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/cpbx-portal.png"
+        _2x: "img/works/cpbx-portal.png"
       is_even: false
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "RM.SIP Proxy for Microsoft Teams"
+      description: "SIP RM.Proxy a.k.a Bespoke SBC for Microsoft Team - A high performance SIP proxy server designed to handle and dispatch SIP transactions between Microsoft Teams and any carrier grade class 4/5 soft switch or PBX. Seamless interconnection with effortless deployment. Supports TLS1.2+ encryption. Suitable for redundancy, load sharing & SBC."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/SBC.png"
+        _2x: "img/works/SBC.png"
+      is_even: true
+
+    - title: "Monitoring & Analyzer"
+      description: "SIP Monitoring & Analyzer By Homer - A robust, carrier-grade and modular VoIP and RTP capture framework for Analyzing and Monitoring with native support for all major OSS voice platforms and vendor-agnostic capture agents."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/sipcapture1.gif"
+        _2x: "img/works/sipcapture1.gif"
+      is_even: false
+
+    - title: "Zabbix Montoring"
+      description: "An enterprise-class with a single pane of glass view of your whole IT infrastructure stack."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/zabbix_dashboard.jpeg"
+        _2x: "img/works/zabbix_dashboard.jpeg"
       is_even: true
 
 # testimonial
 testimonial:
-  enable: true
-  title: "Testimonials"
+  enable: false
+  title: "Tech Stack"
   items:
     - name: "Daniel Jordan"
       position: "Phonet, CEO"
@@ -215,13 +238,13 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "+61 (0) 3 9998 0490"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:consult@rabbani.com.au">consult@rabbani.com.au</a>'
   address:
     title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    address: "Rabbani Pty Ltd<br />Melbourne, VIC 3024 Australia"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
